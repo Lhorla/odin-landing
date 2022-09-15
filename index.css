@@ -61,6 +61,7 @@ nav {
 .hero-text p {
     font-size: 2rem;
     margin: 10px 0;
+    text-align: justify;
 }
 
 .hero-text button {
